@@ -45,6 +45,10 @@ Bats fly at varying heights across the screen. Make sure to time your jumps righ
 ![Gameplay Screenshot 4](Images/screenshot4.png)
 
 
+## Play Now
+
+To play the game directly in your browser, click [here](Hurdle-race-simulation-game.html).
+
 ## Credits
 
 - Game created by Qaidjohar Jukker
