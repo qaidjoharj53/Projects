@@ -51,7 +51,7 @@ To play the game directly in your browser, click [here](Hurdle-race-simulation-g
 
 ## Credits
 
-- Game created by Qaidjohar Jukker
+- Game created by [Qaidjohar Jukker](https://github.com/qaidjoharj53)
 - Scratch sprites and backgrounds sourced from the Scratch library
 - Special thanks to the Scratch community for their support and inspiration
 
