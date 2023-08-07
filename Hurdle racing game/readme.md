@@ -21,10 +21,12 @@ Unicorn Runner is a side-scrolling endless runner game where you control a beaut
 ![Tree Hurdle 4](Images/Trees-a4.svg)
 ![Tree Hurdle 5](Images/Trees-a5.svg)
 ![Tree Hurdle 6](Images/Trees-a6.svg)
+
 The towering trees are one of the main hurdles in the game. Use your jumping skills to leap over them and continue your journey.
 
 ### Bats
 ![Bat Hurdle](Images/Bat-c.svg)
+
 Bats fly at varying heights across the screen. Make sure to time your jumps right to avoid colliding with them.
 
 ## How to Play
