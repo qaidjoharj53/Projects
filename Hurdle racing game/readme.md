@@ -10,11 +10,12 @@ Unicorn Runner is a side-scrolling endless runner game where you control a beaut
 
 ## Controls
 
-- **Spacebar**: Jump
+-   **Spacebar**: Jump
 
 ## Hurdles
 
 ### Trees
+
 ![Tree Hurdle 1](Images/Trees-a.svg)
 ![Tree Hurdle 2](Images/Trees-a2.svg)
 ![Tree Hurdle 3](Images/Trees-a3.svg)
@@ -25,6 +26,7 @@ Unicorn Runner is a side-scrolling endless runner game where you control a beaut
 The towering trees are one of the main hurdles in the game. Use your jumping skills to leap over them and continue your journey.
 
 ### Bats
+
 ![Bat Hurdle](Images/Bat-c.svg)
 
 Bats fly at varying heights across the screen. Make sure to time your jumps right to avoid colliding with them.
@@ -44,12 +46,15 @@ Bats fly at varying heights across the screen. Make sure to time your jumps righ
 ![Gameplay Screenshot 3](Images/screenshot3.png)
 ![Gameplay Screenshot 4](Images/screenshot4.png)
 
+## Play Now
+
+To play the game directly in your browser, click [here](Hurdle-race-simulation-game.html).
 
 ## Credits
 
-- Game created by Qaidjohar Jukker
-- Scratch sprites and backgrounds sourced from the Scratch library
-- Special thanks to the Scratch community for their support and inspiration
+-   Game created by Qaidjohar Jukker
+-   Scratch sprites and backgrounds sourced from the Scratch library
+-   Special thanks to the Scratch community for their support and inspiration
 
 ## Disclaimer
 
@@ -60,4 +65,4 @@ Enjoy playing Unicorn Runner and have a magical time leaping through the fantasy
 ---
 
 Note: To play the game more efficiently and get the best user experience, you will need to have Scratch installed. Simply download the Scratch project file and open it using Scratch to start the game.
-      You can also play the game on any browser by just downloading the HTML file of the game on your device and opening it on a browser.
+You can also play the game on any browser by just downloading the HTML file of the game on your device and opening it on a browser.
