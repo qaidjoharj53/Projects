@@ -46,13 +46,10 @@ Bats fly at varying heights across the screen. Make sure to time your jumps righ
 ![Gameplay Screenshot 3](Images/screenshot3.png)
 ![Gameplay Screenshot 4](Images/screenshot4.png)
 
-## Play Now
-
-To play the game directly in your browser, click [here](Hurdle-race-simulation-game.html).
 
 ## Credits
 
--   Game created by Qaidjohar Jukker
+-   This Game is developed by [Qaidjohar Jukker](https://github.com/qaidjoharj53)
 -   Scratch sprites and backgrounds sourced from the Scratch library
 -   Special thanks to the Scratch community for their support and inspiration
 
@@ -65,4 +62,3 @@ Enjoy playing Unicorn Runner and have a magical time leaping through the fantasy
 ---
 
 Note: To play the game more efficiently and get the best user experience, you will need to have Scratch installed. Simply download the Scratch project file and open it using Scratch to start the game.
-You can also play the game on any browser by just downloading the HTML file of the game on your device and opening it on a browser.
